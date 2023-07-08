@@ -1,5 +1,5 @@
 locals {
-  name = "ep7"
+  name = "ep8"
 }
 
 resource "random_string" "main" {
